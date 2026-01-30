@@ -1,5 +1,5 @@
 # Locating Responsibility in Data Science: Can Ethics Be Outsourced?
-### 🎓 Academic Research | AI Ethics & Governance (DS 435)
+### 🎓 Academic Research | AI Ethics & Governance
 
 ## 📌 Executive Summary
 This research critiques the growing tendency to "automate" ethical oversight within AI systems. Drawing on Leonelli’s framework of distributed accountability, this paper argues that ethical judgment is a human-centered labor that cannot be delegated to machines without the total erosion of human agency.
