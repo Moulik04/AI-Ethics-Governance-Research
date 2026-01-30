@@ -1,21 +1,18 @@
-# Locating Responsibility in Data Science: Can Ethics Be Outsourced?
-### 🎓 Academic Research | AI Ethics & Governance
+# Locating Responsibility in Data Science: Can Ethics Be Outsourced to AI Systems?
 
-## 📌 Executive Summary
-This research critiques the growing tendency to "automate" ethical oversight within AI systems. Drawing on Leonelli’s framework of distributed accountability, this paper argues that ethical judgment is a human-centered labor that cannot be delegated to machines without the total erosion of human agency.
+### 1. Project Overview
+Explored the critical question of whether ethical responsibility in data science can be automated or outsourced to AI, arguing that ethical judgment is an integral, non-transferable human practice.
 
-## 🚀 Key Research Pillars
-**The "Hallucination" of Confidence:** Analyzed how AI systems speak with authority in domains they are not qualified for, such as academic peer review, creating a "collective hallucination" of justified automation.
-**Distributed Accountability:** Explored why accountability in data science is "distributed and fragile," making it easy for corporations to "shirk" ethics through technical compliance.
-**The Gig Economy Case Study:** Investigated how opaque algorithms in the gig economy are used to displace moral responsibility from the employer to the system.
+### 2. Dataset
+This project is a theoretical and critical analysis based on foundational texts in data ethics, including Leonelli's "Locating Ethics in Data Science" and Floridi & Taddeo’s "What Is Data Ethics".
 
-## 💡 Core Insights
-"The result is not ethical neutrality, but ethical erosion: where accountability is diffused, judgment is simulated, and responsibility quietly disappears."
+### 3. Approach
+**Frameworks:** Applied Leonelli’s account of distributed accountability and Floridi’s warnings regarding macro-ethical system problems.
+**Techniques:** Critical analysis of AI "hallucinations" and the illusion of control through automation, drawing parallels to class discussions and classic sci-fi tropes like 2001: A Space Odyssey.
 
-**AI will not solve AI problems:** Automation cannot audit its own bias if the bias is embedded in the system's logic.
-**Macro-Ethics over Technical Compliance:** Ethics must remain a human-centered interaction between data, algorithms, and social practices.
+### 4. Results
+**Insights:** Concluded that outsourcing ethics leads to "ethical erosion" where accountability is diffused and judgment is merely simulated.
+**Conclusion:** Proved that while AI can support ethical practice by auditing bias, it cannot replace the human ability to recognize uncertainty and moral limits.
 
-## 🛠️ Frameworks Analyzed
-**Sabina Leonelli:** "Locating Ethics in Data Science"
-**Luciano Floridi:** "Five Risks of Being Unethical" & "What Is Data Ethics"
-**Martin Heidegger:** Technological mode of thinking (Efficiency vs. Meaning)
+### 5. Key Learning
+This project sharpened my ability to think critically about the "black-box" nature of AI. I learned that as a developer, I cannot hide behind an algorithm; ethics must be integrated into every stage of data collection and processing. It taught me to prioritize "reflexive responsibility", the ability to remain ethically present even as systems become more autonomous.
